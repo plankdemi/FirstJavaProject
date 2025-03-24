@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/My First Project with Java/task/build/
+/Topics/String/Comparing strings ignoring whitespaces/out/
+/Topics/String/Comparing strings ignoring whitespaces/out/production/classes/
